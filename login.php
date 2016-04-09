@@ -11,7 +11,7 @@ if (pg_num_rows($verifica)>0) {
     header("location:$redirect");
 }
 else{
-    $redirect = "http://69.60.115.37/~augustobw/index.html";
+    $redirect = "http://69.60.115.37/~augustobw/index.php";
     echo"<script language='javascript' type='text/javascript'>alert('Login e/ou senha incorretos');window.location.href='index.php';</script>";
                     die();
     header("location:$redirect");
