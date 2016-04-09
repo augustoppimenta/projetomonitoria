@@ -4,17 +4,19 @@
         <title>Home</title>
         <meta charset="utf-8">
         <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
    </head>
    <body>
     <section>
         <?php include("menu_interno.php") ?>
     </section>
     <section>
-        <div class="container"></div>
             <div class="jumbotron">
-                <h1>Bem vindo ao sistema BW!</h1>
-                <p>Agora você já pode tirar suas dúvidas.</p>
+                <div class="container">
+                    <h1>Bem vindo ao sistema BW!</h1>
+                    <p>Agora você já pode tirar suas dúvidas.</p>
+                </div>
             </div>
     </section>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
