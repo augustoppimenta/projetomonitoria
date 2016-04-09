@@ -11,7 +11,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="sucesso.php">Home</a></li>
+            <li class="#"><a href="sucesso.php">Home</a></li>
             <li><a href="#">Perguntas</a></li>
             <li><a href="perfil.php">Perfil</a></li>
           </ul>

@@ -27,3 +27,12 @@ width:100%;
 .panel-heading{
 text-align: center;
 }
+
+
+/* perfil */
+.fb-image-profile
+{
+    margin: 0px 10px 0px 50px;
+    z-index: 9;
+    width: 20%;
+}
