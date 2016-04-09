@@ -7,7 +7,7 @@ $dbconn = pg_connect("host=localhost dbname=bdweb user=bdweb password=bdweb2016"
 
 $verifica = pg_query("SELECT * FROM usuario_augustobw WHERE email='$email' AND senha='$senha'") or die("Query Failed" . pg_last_error());
 if (pg_num_rows($verifica)>0) {
-    $redirect = "http://69.60.115.37/~augustobw/sucesso.html";
+    $redirect = "http://69.60.115.37/~augustobw/sucesso.php";
     header("location:$redirect");
 }
 else{

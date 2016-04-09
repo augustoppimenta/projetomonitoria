@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-        <title>Seu nome Home Page</title>
+        <title>Home</title>
         <meta charset="utf-8">
         <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
