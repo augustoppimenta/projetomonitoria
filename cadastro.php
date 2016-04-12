@@ -11,7 +11,7 @@
         <div class="panel panel-default">
         <div class="panel-heading">CADASTRO</div>
         <div class="panel-body">
-                <form action="cadastro.php" method="POST">
+                <form action="realizacadastro.php" method="POST">
 			Nome</br>
 			<input type="text" name="nome" value=""></br>
                         Email</br>
