@@ -10,8 +10,8 @@
    <body>
         <?php include("menu_interno.php") ?>
         <div class="jumbotron">
-          <div class="container">
-                <h1>Bem vindo!</h1>
+            <div class="container">
+                <h1>Bem vindo ao sistema BW!</h1>
                 <p>Agora você já pode tirar suas dúvidas.</p>
                 <p><a class="btn btn-primary btn-lg" href="#" role="button">Fazer pergunta</a></p>
             </div>

@@ -12,11 +12,9 @@
         <div class="jumbotron">
             <div class="container">
                     <img align="left" class="fb-image-profile thumbnail" src="https://pbs.twimg.com/profile_images/710268230624002048/PXbRHj_z.jpg" alt="Profile image example"/>
-                    <div>
                         <h3>Augusto Pimenta</h3>
                         <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                         <p><a href="#" class="btn btn-default" role="button">Editar</a></p>
-                    </div>
             </div>
         </div>
         <div class="row">
