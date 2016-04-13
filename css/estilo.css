@@ -1,0 +1,38 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.showcase{
+width: auto;
+}
+
+.form-login{
+  max-width: 330px;
+}
+
+.panel-default{
+width:400px;
+margin-left:30%;
+margin-top: 70px;
+}
+
+.btn{
+margin-top: 10px;
+}
+
+input{
+width:100%;
+}
+
+.panel-heading{
+text-align: center;
+}
+
+
+/* perfil */
+.fb-image-profile
+{
+    margin: 0px 10px 0px 50px;
+    z-index: 9;
+    width: 20%;
+}
