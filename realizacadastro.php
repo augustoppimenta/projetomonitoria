@@ -12,7 +12,7 @@ $contar = pg_num_rows($validaremail);
 
 if ($contar == 0) {
 	$insert = pg_query("INSERT INTO usuario_augustobw(nome, email, senha) VALUES('$nome','$email','$senha')");
-      echo"<script language='javascript' type='text/javascript'>alert('Cadastro realizado com sucesso!');window.location.href='cadastro.php';</script>";
+      echo"<script language='javascript' type='text/javascript'>alert('Cadastro realizado com sucesso!');window.location.href='index.php';</script>";
                     die();
 	$redirect = "http://69.60.115.37/~augustobw/index.php";
 	header("location:$redirect");
